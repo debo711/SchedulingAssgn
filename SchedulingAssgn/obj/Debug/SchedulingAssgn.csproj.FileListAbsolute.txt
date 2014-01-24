@@ -1,0 +1,6 @@
+C:\Users\obeezy\Desktop\CS 4540 Operating Systems\SchedulingAssgn\SchedulingAssgn\bin\Debug\SchedulingAssgn.exe.config
+C:\Users\obeezy\Desktop\CS 4540 Operating Systems\SchedulingAssgn\SchedulingAssgn\bin\Debug\SchedulingAssgn.exe
+C:\Users\obeezy\Desktop\CS 4540 Operating Systems\SchedulingAssgn\SchedulingAssgn\bin\Debug\SchedulingAssgn.pdb
+C:\Users\obeezy\Desktop\CS 4540 Operating Systems\SchedulingAssgn\SchedulingAssgn\obj\Debug\SchedulingAssgn.csprojResolveAssemblyReference.cache
+C:\Users\obeezy\Desktop\CS 4540 Operating Systems\SchedulingAssgn\SchedulingAssgn\obj\Debug\SchedulingAssgn.exe
+C:\Users\obeezy\Desktop\CS 4540 Operating Systems\SchedulingAssgn\SchedulingAssgn\obj\Debug\SchedulingAssgn.pdb
